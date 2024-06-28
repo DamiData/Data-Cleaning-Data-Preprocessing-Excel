@@ -5,7 +5,6 @@ This project involves manipulating data in Microsoft Excel, focusing on data cle
 ID, First Name, Last Name, Job Title, Email, Date of Birth, Gender, Street, City, State or Province, Postal Code, and Country.
 
 
-## Before  Data Cleaning
 
 ### Before Data Cleaning
 
